@@ -17,7 +17,19 @@ a) Accepts user ingredients
 b) Filters recipes by cuisine preference
 c) Uses text similarity techniques to recommend the most relevant recipes.
 
-⚙️ Technologies Used: 
+📂 Dataset
+
+Dataset used in this project:
+The dataset contains recipes from multiple cuisines and includes information such as:
+
+Feature	      |         Description
+Recipe Name	            Name of the recipe
+Area	                  Cuisine type (Indian, Italian, Mexican, etc.)
+Category	              Type of dish
+Ingredients	            List of ingredients required
+Steps	                  Cooking instructions
+
+⚙️ Technical Stack: 
 
 Python
 Pandas
